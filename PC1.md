@@ -1,4 +1,5 @@
 
+
 ## Prueba Corta 1
 
 **1.  Un usuario de telefonía móvil se encuentra en un auto en movimiento a 30 kms por hora, el mismo cruza el límite de una celda y de pronto la llamada actual se detiene de forma repentina, asumiendo que todo el sistema se encuentra funcionando de forma adecuada, ¿Por qué razón la llamada se detiene?**
